@@ -2,14 +2,6 @@
 
 A fully functional Job Portal application built with **React.js**. This application demonstrates full **CRUD (Create, Read, Update, Delete)** operations, allowing users to manage job listings effectively. It serves as a comprehensive portfolio project showcasing modern React practices.
 
-## 🔗 Live Demo
-*(Optional: Add your deployed link here, e.g., Netlify/Vercel)*
-[View Live Demo](#) 
-
-## 📸 Screenshots
-*(Optional: Add screenshots of your app here to make the README attractive)*
-![App Screenshot](path/to/screenshot.png)
-
 ## ✨ Key Features
 
 This project implements all fundamental CRUD functionalities:
@@ -35,7 +27,7 @@ Follow these steps to run the project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/react-job-portal.git](https://github.com/your-username/react-job-portal.git)
+    git clone this repo
     ```
 
 2.  **Navigate to the project directory:**
